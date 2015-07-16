@@ -2,6 +2,14 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+/*
+******************************************************************************
+@author tofu.
+
+@version 1.ob
+******************************************************************************
+*/
+
 public class MyAge extends JFrame
 {
         
